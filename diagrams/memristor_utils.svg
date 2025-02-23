@@ -1,0 +1,3538 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 480 270"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="memristor_utils.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Memristor</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showborder="false"
+     borderlayer="true"
+     showguides="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.73148525"
+     inkscape:cx="339.71977"
+     inkscape:cy="617.23732"
+     inkscape:window-width="1886"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="490.75882"
+       y="369.73674"
+       width="18.840798"
+       height="12.066274"
+       id="rect3" />
+    <rect
+       x="129.2486"
+       y="573.82825"
+       width="55.849777"
+       height="48.378448"
+       id="rect9-3-4" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect353"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect355"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect357"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect359"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect361"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect363"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect365"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect367"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect369"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect371"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect373"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect375"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect377"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect379"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect381"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect383"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.2414"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <rect
+       x="807.72253"
+       y="235.82756"
+       width="136.49628"
+       height="51.529385"
+       id="rect2-0" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-0" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-2" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-6" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="135.13229"
+       height="50.318283"
+       id="rect5-6-5" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-9" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-8" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-0" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-6" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-2" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6-2" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6-6" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6-67" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6-9" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6-2-0" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6-2-04" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="26.010239"
+       height="13.710331"
+       id="rect5-4-85-1-6-2-04-2" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="135.13229"
+       height="50.318283"
+       id="rect5-6-5-9" />
+    <rect
+       x="405.32571"
+       y="159.20164"
+       width="135.13229"
+       height="50.318283"
+       id="rect5-6-5-9-6" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-9" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-8" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-6" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-1" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-9" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-8" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-5" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-96" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-4" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-6" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-10" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-1-0" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-9-8" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-8-1" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-5-3" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-1-0-1" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-9-8-0" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-8-1-7" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-5-3-5" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-1-0-9" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-9-8-4" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-8-1-2" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-5-3-2" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-1-0-8" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-9-8-3" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-8-1-0" />
+    <rect
+       x="490.75882"
+       y="369.73672"
+       width="18.840797"
+       height="12.066274"
+       id="rect3-7-5-3-1" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1">
+    <g
+       id="g8"
+       inkscape:label="valuable_memristors">
+      <g
+         id="g3-2-56"
+         inkscape:label="memristor_val"
+         transform="translate(24.343935,0.68158401)">
+        <g
+           inkscape:label="Memristor"
+           id="memristor-7-9"
+           transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+           style="display:inline">
+          <title
+             id="title2-0-37">Memristor</title>
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 17.053721,-19.064917 0.662815,36.781454"
+             id="path277-9-4"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+             id="path278-3-5"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+             id="path280-6-2"
+             sodipodi:nodetypes="cccccccccc" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect280-0-5"
+             width="14.173228"
+             height="3.5433002"
+             x="10.629921"
+             y="49.6063" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 17.716536,53.149607 0.398538,32.469474"
+             id="path281-6-4"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g2-2-7"
+           transform="translate(0.16986233,-0.09436796)"
+           inkscape:label="mem_wires">
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+             d="m 107.76967,73.255732 12.32453,2.27e-4"
+             id="path2-61-4"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+             d="m 119.95396,73.113574 -2.3e-4,12.32453"
+             id="path2-6-8-4"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+           id="text3-3"
+           style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+           inkscape:label="mem_val"><tspan
+             x="492.17966"
+             y="379.30436"
+             id="tspan1">Val</tspan></text>
+      </g>
+      <g
+         id="g4"
+         transform="translate(44.409449,-21.298416)"
+         inkscape:label="memristor_val_row">
+        <g
+           id="g3-2-56-2"
+           inkscape:label="memristor_val"
+           transform="translate(-1.1678762,21.980796)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-7"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-2">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-2"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-6"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-1"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-0"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-6"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-1"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-5"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-4"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-1);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan2">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-7"
+           inkscape:label="memristor_val"
+           transform="translate(10.869971,21.98)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-71"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-1">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-5"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-9"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-7"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-7"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-67"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-3"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-6"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-5"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-6"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan3">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-29"
+           inkscape:label="memristor_val"
+           transform="translate(22.907714,21.980167)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-3"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-9">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-8"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-8"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-5"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-0"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-9"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-63"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-8"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-5"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-8);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan4">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-8"
+           inkscape:label="memristor_val"
+           transform="translate(34.94551,21.980167)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-4"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-8">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-1"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-3"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-04"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-4"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-4"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-4"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-7"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-63"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-5);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan5">Val</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6"
+         inkscape:label="memristor_val_grid">
+        <g
+           id="g3-2-56-2-0"
+           inkscape:label="memristor_val_0_0"
+           transform="translate(43.241573,21.469782)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-7-3"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-2-4">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-2-0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-6-3"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-1-9"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-0-1"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-6-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-1-6"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-5-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-9-3"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-4-3"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-1-0);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan6">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-7-8"
+           inkscape:label="memristor_val_0_1"
+           transform="translate(55.27942,21.468986)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-71-0"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-1-5">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-5-6"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-9-6"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-7-4"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-7-0"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-67-0"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-3-4"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-6-6"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-5-2"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-6-6"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9-8);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan7">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-29-7"
+           inkscape:label="memristor_val_0_2"
+           transform="translate(67.317163,21.469153)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-3-5"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-9-6">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-0-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-8-8"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-8-7"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-5-2"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-0-8"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-9-2"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-63-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-8-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-5-6"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-8-1);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan8">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-8-0"
+           inkscape:label="memristor_val_0_3"
+           transform="translate(79.354959,21.469153)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-4-2"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-8-7">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-1-6"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-0-1"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-3-3"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-04-2"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-4-1"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-4-5"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-4-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-7-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-63-1"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-5-3);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan9">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-2-0-0"
+           inkscape:label="memristor_val_1_0"
+           transform="translate(43.241573,33.507577)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-7-3-4"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-2-4-8">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-2-0-0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-6-3-4"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-1-9-2"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-0-1-9"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-6-9-6"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-1-6-1"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-5-9-0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-9-3-4"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-4-3-2"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-1-0-1);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan10">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-7-8-2"
+           inkscape:label="memristor_val_1_1"
+           transform="translate(55.27942,33.506781)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-71-0-0"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-1-5-5">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-5-6-5"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-9-6-2"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-7-4-9"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-7-0-0"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-67-0-2"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-3-4-8"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-6-6-3"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-5-2-8"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-6-6-0"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9-8-0);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan11">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-29-7-0"
+           inkscape:label="memristor_val_1_2"
+           transform="translate(67.317163,33.506948)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-3-5-9"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-9-6-1">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-0-9-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-8-8-6"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-8-7-2"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-5-2-5"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-0-8-4"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-9-2-4"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-63-9-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-8-9-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-5-6-3"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-8-1-7);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan12">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-8-0-0"
+           inkscape:label="memristor_val_1_3"
+           transform="translate(79.354959,33.506948)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-4-2-5"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-8-7-0">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-1-6-2"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-0-1-9"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-3-3-4"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-04-2-3"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-4-1-5"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-4-5-1"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-4-9-7"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-7-9-4"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-63-1-3"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-5-3-5);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan13">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-2-0-1"
+           inkscape:label="memristor_val_2_0"
+           transform="translate(43.241573,45.545372)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-7-3-2"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-2-4-88">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-2-0-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-6-3-2"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-1-9-8"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-0-1-8"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-6-9-8"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-1-6-6"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-5-9-8"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-9-3-3"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-4-3-8"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-1-0-9);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan14">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-7-8-3"
+           inkscape:label="memristor_val_2_1"
+           transform="translate(55.27942,45.544576)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-71-0-8"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-1-5-0">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-5-6-4"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-9-6-7"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-7-4-6"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-7-0-8"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-67-0-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-3-4-0"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-6-6-6"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-5-2-87"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-6-6-9"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9-8-4);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan15">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-29-7-3"
+           inkscape:label="memristor_val_2_2"
+           transform="translate(67.317163,45.544743)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-3-5-3"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-9-6-3">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-0-9-7"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-8-8-3"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-8-7-26"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-5-2-52"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-0-8-6"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-9-2-5"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-63-9-8"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-8-9-7"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-5-6-9"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-8-1-2);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan16">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-8-0-4"
+           inkscape:label="memristor_val_2_3"
+           transform="translate(79.354959,45.544743)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-4-2-1"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-8-7-04">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-1-6-8"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-0-1-7"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-3-3-0"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-04-2-8"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-4-1-6"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-4-5-2"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-4-9-4"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-7-9-7"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-63-1-9"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-5-3-2);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan17">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-2-0-9"
+           inkscape:label="memristor_val_3_0"
+           transform="translate(43.241573,57.583167)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-7-3-1"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-2-4-5">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-2-0-4"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-6-3-9"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-1-9-25"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-0-1-7"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-6-9-4"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-1-6-9"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-5-9-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-9-3-45"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-4-3-9"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-1-0-8);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan18">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-7-8-7"
+           inkscape:label="memristor_val_3_1"
+           transform="translate(55.27942,57.582371)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-71-0-08"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-1-5-1">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-5-6-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-9-6-9"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-7-4-7"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-7-0-82"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-67-0-5"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-3-4-3"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-6-6-4"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-5-2-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-6-6-02"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9-8-3);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan19">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-29-7-9"
+           inkscape:label="memristor_val_3_2"
+           transform="translate(67.317163,57.582538)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-3-5-6"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-9-6-2">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-0-9-1"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-8-8-2"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-8-7-0"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-5-2-7"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-0-8-3"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-9-2-1"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-63-9-1"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-8-9-90"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-5-6-5"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-8-1-0);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan20">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-8-0-7"
+           inkscape:label="memristor_val_3_3"
+           transform="translate(79.354959,57.582538)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-4-2-4"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-8-7-06">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-1-6-4"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-0-1-74"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-3-3-8"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-04-2-5"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-4-1-8"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-4-5-26"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-4-9-0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-7-9-6"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-63-1-6"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-5-3-1);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan21">Val</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5"
+         transform="translate(-1.5256341e-7,-9.4488184)"
+         inkscape:label="memristor_val_col">
+        <g
+           id="g3-2-56-1"
+           inkscape:label="memristor_val"
+           transform="translate(24.343935,30.917804)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-78"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-5">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-7"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-4"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-18"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-59"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-7"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-5"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-3"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-88"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-3"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-96);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan22">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-3"
+           inkscape:label="memristor_val"
+           transform="translate(24.343935,42.9556)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-38"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-6">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-04"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-88"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-89"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-77"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-64"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-30"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-30"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-92"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-54"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-4);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan23">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-22"
+           inkscape:label="memristor_val"
+           transform="translate(24.343935,54.993395)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-47"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-7">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-54"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-81"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-2"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-8"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-36"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-8"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-0"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-2"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-6);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan24">Val</tspan></text>
+        </g>
+        <g
+           id="g3-2-56-5"
+           inkscape:label="memristor_val"
+           transform="translate(24.343935,67.03119)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7-9-0"
+             transform="matrix(-0.14163085,0.13314973,-0.10507878,-0.10797209,120.48323,80.037259)"
+             style="display:inline">
+            <title
+               id="title2-0-37-64">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.053721,-19.064917 0.662815,36.781454"
+               id="path277-9-4-6"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3-5-2"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-6-2-5"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-0-5-86"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,53.149607 0.398538,32.469474"
+               id="path281-6-4-2"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g2-2-7-8"
+             transform="translate(0.16986233,-0.09436796)"
+             inkscape:label="mem_wires">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-61-4-47"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-8-4-2"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.25,0,0,0.25,-7.547392,-18.313033)"
+             id="text3-3-40"
+             style="font-weight:100;font-size:10.6667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka Thin';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-10);display:inline;fill:#000000;stroke:#000000;stroke-width:1.13386;stroke-linejoin:bevel"
+             inkscape:label="mem_val"><tspan
+               x="492.17966"
+               y="379.30436"
+               id="tspan25">Val</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g10"
+       inkscape:label="memrsitors">
+      <g
+         id="g3"
+         inkscape:label="memristor">
+        <g
+           inkscape:label="Memristor"
+           id="memristor"
+           transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+           style="display:inline">
+          <title
+             id="title2">Memristor</title>
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 17.716536,8.9494648e-7 V 17.716537"
+             id="path277" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+             id="path278"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+             id="path280"
+             sodipodi:nodetypes="cccccccccc" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect280"
+             width="14.173228"
+             height="3.5433002"
+             x="10.629921"
+             y="49.6063" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 17.716536,53.149607 V 70.866143"
+             id="path281" />
+        </g>
+        <g
+           id="g2"
+           transform="translate(0.16986233,-0.09436796)">
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+             d="m 107.76967,73.255732 12.32453,2.27e-4"
+             id="path2"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+             d="m 119.95396,73.113574 -2.3e-4,12.32453"
+             id="path2-6"
+             sodipodi:nodetypes="cc" />
+        </g>
+      </g>
+      <g
+         id="g1"
+         inkscape:label="memristor_col">
+        <g
+           id="g3-2"
+           inkscape:label="memristor"
+           transform="translate(-0.22299429,37.872135)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-2"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-8">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-9" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-7"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-3"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-6"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-1" />
+          </g>
+          <g
+             id="g2-2"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-9"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-3"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+        <g
+           id="g3-7"
+           inkscape:label="memristor"
+           transform="translate(-0.22299429,46.546151)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-8"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-4">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-5" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-36"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-10"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-6" />
+          </g>
+          <g
+             id="g2-3"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-2"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-0"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+        <g
+           id="g3-5"
+           inkscape:label="memristor"
+           transform="translate(-0.21796392,20.524104)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-3"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-5">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-6" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-2"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-9"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-1"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-2" />
+          </g>
+          <g
+             id="g2-7"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-0"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-9"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+        <g
+           id="g3-5-6"
+           inkscape:label="memristor"
+           transform="translate(-0.22299429,29.19816)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-3-2"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-5-6">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-6-1" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-2-8"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-9-7"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-1-9"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-2-2" />
+          </g>
+          <g
+             id="g2-7-0"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-0-2"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-9-3"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g9"
+         inkscape:label="memristor_grid">
+        <g
+           id="g2-4"
+           inkscape:label="memristor_col"
+           transform="translate(-23.964094)">
+          <g
+             id="g3-2-8"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,37.872135)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-2-1"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-8-2">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-9-9" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-7-3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-3-9"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-6-0"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-1-8" />
+            </g>
+            <g
+               id="g2-2-8"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-9-5"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-3-0"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-7-9"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,46.546151)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-8-6"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-4-3">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-5-8" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-0-5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-36-6"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-10-1"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-6-1" />
+            </g>
+            <g
+               id="g2-3-5"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-2-9"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-0-8"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-4"
+             inkscape:label="memristor"
+             transform="translate(-0.21796392,20.524104)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-8"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-1">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-0"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-4"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-4" />
+            </g>
+            <g
+               id="g2-7-4"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-4"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-7"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-6-6"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,29.19816)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-2-3"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-6-1">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-1-7" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-8-5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-7-9"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-9-6"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-2-2" />
+            </g>
+            <g
+               id="g2-7-0-1"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-2-7"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-3-8"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g2-8"
+           inkscape:label="memristor_col"
+           transform="translate(-32.63811)">
+          <g
+             id="g3-2-5"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,37.872135)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-2-9"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-8-7">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-9-5" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-7-38"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-3-8"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-6-3"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-1-1" />
+            </g>
+            <g
+               id="g2-2-89"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-9-6"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-3-4"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-7-3"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,46.546151)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-8-3"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-4-38">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-5-6" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-0-0"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-36-4"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-10-8"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-6-8" />
+            </g>
+            <g
+               id="g2-3-8"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-2-97"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-0-7"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-64"
+             inkscape:label="memristor"
+             transform="translate(-0.21796392,20.524104)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-3"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-0">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-3" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-0"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-9"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-2"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-5" />
+            </g>
+            <g
+               id="g2-7-40"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-5"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-9"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-6-4"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,29.19816)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-2-6"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-6-9">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-1-2" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-8-2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-7-4"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-9-7"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-2-7" />
+            </g>
+            <g
+               id="g2-7-0-5"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-2-4"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-3-81"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g2-68"
+           inkscape:label="memristor_col"
+           transform="translate(-41.217638)">
+          <g
+             id="g3-2-0"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,37.872135)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-2-2"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-8-1">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-9-0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-7-5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-3-1"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-6-1"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-1-0" />
+            </g>
+            <g
+               id="g2-2-85"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-9-0"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-3-6"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-7-4"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,46.546151)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-8-62"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-4-5">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-5-86" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-0-2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-36-8"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-10-4"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-6-7" />
+            </g>
+            <g
+               id="g2-3-2"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-2-4"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-0-0"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-62"
+             inkscape:label="memristor"
+             transform="translate(-0.21796392,20.524104)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-9"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-9">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-08" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-1"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-3"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-1"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-1" />
+            </g>
+            <g
+               id="g2-7-03"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-40"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-39"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-6-1"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,29.19816)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-2-9"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-6-6">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-1-9" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-8-3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-7-3"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-9-8"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-2-0" />
+            </g>
+            <g
+               id="g2-7-0-56"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-2-6"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-3-4"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g2-26"
+           inkscape:label="memristor_col"
+           transform="translate(-49.891654)">
+          <g
+             id="g3-2-7"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,37.872135)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-2-5"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-8-6">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-9-98" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-7-7"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-3-2"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-6-8"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-1-2" />
+            </g>
+            <g
+               id="g2-2-9"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-9-9"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-3-60"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-7-2"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,46.546151)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-8-7"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-4-6">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-5-1" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-0-3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-36-2"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-10-15"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-6-9" />
+            </g>
+            <g
+               id="g2-3-9"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-2-1"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-0-4"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-9"
+             inkscape:label="memristor"
+             transform="translate(-0.21796392,20.524104)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-1"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-07">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-5" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-87"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-04"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-8"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-0" />
+            </g>
+            <g
+               id="g2-7-42"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-9"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-6"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <g
+             id="g3-5-6-10"
+             inkscape:label="memristor"
+             transform="translate(-0.22299429,29.19816)">
+            <g
+               inkscape:label="Memristor"
+               id="memristor-3-2-4"
+               transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+               style="display:inline">
+              <title
+                 id="title2-5-6-2">Memristor</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,8.9494648e-7 V 17.716537"
+                 id="path277-6-1-22" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+                 id="path278-2-8-0"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+                 id="path280-9-7-5"
+                 sodipodi:nodetypes="cccccccccc" />
+              <rect
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect280-1-9-5"
+                 width="14.173228"
+                 height="3.5433002"
+                 x="10.629921"
+                 y="49.6063" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 17.716536,53.149607 V 70.866143"
+                 id="path281-2-2-29" />
+            </g>
+            <g
+               id="g2-7-0-0"
+               transform="translate(0.16986233,-0.09436796)">
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 107.76967,73.255732 12.32453,2.27e-4"
+                 id="path2-0-2-2"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+                 d="m 119.95396,73.113574 -2.3e-4,12.32453"
+                 id="path2-6-9-3-83"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g7"
+         inkscape:label="memristor_row">
+        <g
+           id="g3-4"
+           inkscape:label="memristor"
+           transform="translate(-24.187553,3.2416406e-4)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-7"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-6">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-56" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-9"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-37"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-4"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-5" />
+          </g>
+          <g
+             id="g2-25"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-4"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-7"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+        <g
+           id="g3-78"
+           inkscape:label="memristor"
+           transform="translate(-32.861105,3.2416406e-4)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-6"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-88">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-4" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-3"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-1"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-49"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-20" />
+          </g>
+          <g
+             id="g2-6"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-8"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-92"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+        <g
+           id="g3-50"
+           inkscape:label="memristor"
+           transform="translate(-41.440632,3.2416406e-4)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-4"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-87">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-1" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-72"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-7"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-2"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-26" />
+          </g>
+          <g
+             id="g2-1"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-06"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-1"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+        <g
+           id="g3-0"
+           inkscape:label="memristor"
+           transform="translate(-50.114648,3.2416406e-4)">
+          <g
+             inkscape:label="Memristor"
+             id="memristor-9"
+             transform="matrix(-0.14599584,0.12834861,-0.10141665,-0.11141896,122.74258,78.725155)"
+             style="display:inline">
+            <title
+               id="title2-1">Memristor</title>
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,8.9494648e-7 V 17.716537"
+               id="path277-7" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 10.663493,18.085949 H 24.836722 V 53.51902 H 10.663493 Z"
+               id="path278-71"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 17.716536,17.716537 v 6.455757 h 3.543307 v 6.455757 h -7.086614 v 6.455757 h 7.086614 v 6.455757 h -3.543307 v 6.455757"
+               id="path280-15"
+               sodipodi:nodetypes="cccccccccc" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect280-9"
+               width="14.173228"
+               height="3.5433002"
+               x="10.629921"
+               y="49.6063" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 17.716536,53.149607 V 70.866143"
+               id="path281-7" />
+          </g>
+          <g
+             id="g2-76"
+             transform="translate(0.16986233,-0.09436796)">
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 107.76967,73.255732 12.32453,2.27e-4"
+               id="path2-7"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:#000000;stroke:#000000;stroke-width:0.283465;stroke-linejoin:bevel"
+               d="m 119.95396,73.113574 -2.3e-4,12.32453"
+               id="path2-6-36"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Memristor</dc:title>
+        <dc:date>29-10-2024</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anant Sharma</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence/lal">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
